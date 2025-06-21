@@ -1,0 +1,20 @@
+import os
+
+def replace_dataset_backslash_with_forward(df):
+    idx = list(df.index)
+    for i in range(len(idx)):
+        idx[i] = idx[i].replace("\\", "/")
+    df.index = pd.Index(idx)
+
+def get_collected_data_df(dir):
+    h5_paths = [os.path.join(dir,f) for f in os.listdir(dir) if f.endswith(".h5") and f.startswith("CollectedData")]
+    return pd.read_hdf(h5_paths[0])
+
+def save(df, dir):
+    df = df.sort_index()
+    df.to_hdf(os.path.join(dir,'CollectedData_UCT.h5'), key='df_with_missing', mode='w')
+    df.to_csv(os.path.join(dir,'CollectedData_UCT.csv'))
+    print("Saved " + dir)
+
+
+topdir = /home/zubair/Sess

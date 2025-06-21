@@ -1,0 +1,288 @@
+    # Project definitions (do not edit)
+Task: Session8_Set2_tackle1
+scorer: UCT
+date: Nov27
+multianimalproject:
+identity:
+
+    # Project path (change when moving around)
+project_path: /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P28_baseline_2_tackle_2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P29_baseline_2_tackle_5.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P30_baseline_2_tackle_1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P31_baseline_2_tackle_1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P33_baseline_2_tackle_5.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P34_baseline_1_tackle_1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P35_baseline_1_tackle_1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P36_baseline_1_tackle_1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro1/GP1_P37_baseline_2_tackle_1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P28_baseline_2_tackle_2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P29_baseline_1_tackle_4.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P30_baseline_1_tackle_3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P31_baseline_1_tackle_5.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P32_baseline_2_tackle_6.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P33_baseline_2_tackle_3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P34_baseline_1_tackle_1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P35_baseline_2_tackle_6.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P36_baseline_2_tackle_6.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro4/GP4_P37_baseline_1_tackle_6.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P28_baseline_1_tackle_6.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P29_baseline_2_tackle_6.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P30_baseline_1_tackle_3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P31_baseline_1_tackle_3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P32_baseline_1_tackle_3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P33_baseline_2_tackle_2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P34_baseline_1_tackle_2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P35_baseline_2_tackle_5.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P36_baseline_2_tackle_4.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/new_videos/GoPro3/GP3_P37_baseline_2_tackle_6.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle1_set1_session9.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle1_set1_session9.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle1_set1_session9.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle2_set2_session9.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle2_set2_session9.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle2_set2_session9.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle4_set4_session8.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle4_set4_session8.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle4_set4_session8.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_tackle4_session4_set4.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_tackle4_session4_set4.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_tackle4_session7_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_tackle4_session7_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_tackle4_session7_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_tackle3_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_tackle3_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_tackle3_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_tackle2_session4_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_tackle2_session4_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle1_session2_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle1_session2_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle6_session2_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle6_session2_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle1_session2_set5.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle1_session2_set5.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle3_session2_set11.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle3_session2_set11.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle6_session12_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle6_session12_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle6_session12_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle1_session12_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle1_session12_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle1_session12_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle2_session13_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle2_session13_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle2_session13_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle5_session13_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle5_session13_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle5_session13_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle5_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle5_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle5_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle1_session5_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle1_session5_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle1_session5_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle6_session5_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle6_session5_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle6_session5_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle3_session7_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle3_session7_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle3_session7_set1.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle3_session8_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP3_Tackle3_session8_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle3_session8_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle6_session12_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle6_session12_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle2_session12_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle2_session12_set2.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle4_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle4_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP4_Tackle1_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+  /home/zubair/Session8_Set2_tackle1-UCT-2019-11-27/videos/GP1_Tackle1_session3_set3.MP4:
+    crop: 0, 1920, 0, 1080
+
+
+bodyparts:
+# Human
+- ankle1
+- knee1
+- hip1
+- hip2
+- knee2
+- ankle2
+- wrist1
+- elbow1
+- shoulder1
+- shoulder2
+- elbow2
+- wrist2
+- chin
+- forehead
+
+# Bag
+- top
+- upper quartile
+- lower quartile
+- middle
+- bottom
+
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - ankle1
+  - knee1
+- - ankle2
+  - knee2
+- - knee1
+  - hip1
+- - knee2
+  - hip2
+- - hip1
+  - hip2
+- - shoulder1
+  - shoulder2
+- - shoulder1
+  - hip1
+- - shoulder2
+  - hip2
+- - shoulder1
+  - elbow1
+- - shoulder2
+  - elbow2
+- - chin
+  - forehead
+- - elbow1
+  - wrist1
+- - elbow2
+  - wrist2
+skeleton_color: black
+pcutoff: 0.5
+dotsize: 12
+alphavalue: 0.7
+colormap: jet
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 4
+default_net_type: resnet_101
+default_augmenter: default
+snapshotindex: -1
+batch_size: 1
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+croppedtraining:
+resnet:
