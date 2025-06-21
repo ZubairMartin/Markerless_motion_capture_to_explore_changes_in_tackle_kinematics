@@ -1,0 +1,8 @@
+Name,Label,GP,mass,camera_calib,correct_cam_calib?,T_start,T_end
+Tackle1_Session3_Set1,P3_B2,134,"87,7",Session3_Set1,yes,132,288
+Tackle6_Session4_Set2,P10_B1,14,75,Session4_Set2,yes,133,182
+Tackle5_Session9_Set1,P9_B1,134,"128,9",Session9_Set1,yes,452,577
+Tackle2_Session10_Set3,P11_B1,134,"71,5",Session10_Set3,yes,68,160
+Tackle3_Session10_Set3,P11_B1,134,"71,5",Session10_Set3,yes,63,154
+Tackle5_Session13_Set1,P15_B1,134,"83,55",Session13_Set1,yes,65,129
+Tackle6_Session13_Set1,P15_B1,134,"83,55",Session13_Set1,yes,70,144

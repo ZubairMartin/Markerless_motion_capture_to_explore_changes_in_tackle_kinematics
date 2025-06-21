@@ -1,0 +1,2 @@
+T_start,T_end,temp,mass,player_number,tackle_numb,GP_used,calib_dir,folder
+64,113,P2_baseline_1_tackle_1,67.8,2,1,14,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P2_baseline_1,/home/uct/Desktop/P2_P29/valid/

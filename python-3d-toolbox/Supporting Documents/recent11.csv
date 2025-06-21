@@ -1,0 +1,15 @@
+tackle_name,dir_data_files,dir_destination,calib_project_dir,mass_of_player,start_tackle_frame (on contact),end_tackle_frame(on contact-bag/w/gnd),GP_used,Player_number
+GP1_tackle2_session4_set5,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,100,171,14,P10
+GP1_tackle3_session4_set5,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,102,178,14,P10
+GP1_tackle5_session4_set5,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,117,191,14,P10
+GP1_tackle1_session4_set9,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,108,179,14,P10
+GP1_tackle2_session4_set9,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,131,205,14,P10
+GP1_tackle4_session4_set9,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,122,203,14,P10
+GP1_tackle5_session4_set9,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,118,196,14,P10
+GP1_tackle6_session4_set9,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,119,195,14,P10
+GP1_tackle1_session4_set11,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,107,183,14,P10
+GP1_tackle2_session4_set11,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,109,184,14,P10
+GP1_tackle3_session4_set11,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,103,178,14,P10
+GP1_tackle4_session4_set11,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,120,200,14,P10
+GP1_tackle5_session4_set11,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,113,186,14,P10
+GP1_tackle6_session4_set11,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/Spreadsheet/,/home/uct/Desktop/RugbyProject/CameraCalibration/Projects/Session4_Set3,750/10,115,192,14,P10

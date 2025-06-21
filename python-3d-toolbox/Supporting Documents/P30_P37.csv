@@ -1,0 +1,9 @@
+T_start,T_end,temp,mass,player_number,tackle_numb,GP_used,calib_dir,folder
+91,154,P37_baseline_2_tackle_4,75.1,37,4,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P37_baseline_2,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/invalid/
+103,175,P35_baseline_2_tackle_5,86.7,35,5,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P35_baseline_2,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/valid/
+67,117,P31_baseline_2_tackle_6,91.05,31,6,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P31_baseline_2,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/invalid/
+97,186,P35_baseline_1_tackle_4,86.7,35,4,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P35_baseline_1,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/valid/
+98,143,P35_baseline_1_tackle_6,86.7,35,6,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P35_baseline_1,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/invalid/
+101,171,P34_baseline_2_tackle_6,100.55,34,6,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P34_baseline_2,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/invalid/
+79,168,P37_baseline_1_tackle_1,75.1,37,1,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P37_baseline_1,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/valid/
+76,154,P37_baseline_2_tackle_3,75.1,37,3,134,/home/uct/Analyse_videos/CameraCalibration/Projects/final_calibration_videos/P37_baseline_2,/home/uct/Analyse_videos/Session8_Set2_tackle1-UCT-2019-11-27/last_videos/P30_P37/valid/
